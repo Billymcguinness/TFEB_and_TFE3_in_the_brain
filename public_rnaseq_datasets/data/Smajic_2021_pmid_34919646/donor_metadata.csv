@@ -1,0 +1,15 @@
+﻿donor_id,disease_status,donor_sex,age_at_onset,age_at_death,disease_duration,pmi,braak_stage,non_motor_features,n_nuclei,sn_neuron_loss
+PD1,PD,F,71,84,13,25,5,"depression, visual hallucinations",1943,severe
+PD2,PD,M,57,66,10,24,6,"hallucinations, paranoia",5925,severe
+PD3,PD,M,71,77,7,24,6,"stroke, cognitive
+impairment, dementia",3345,severe
+PD4,PD,M,69,81,12,13,6,"cognitive impairment,
+hallucinations, depression",2083,severe
+PD5,PD,M,71,79,8,25,5,"blindness, memory
+impairment",5706,severe
+CTRL1,CTRL,F,,93,,29,,,3753,mild
+CTRL2,CTRL,M,,66,,16,,,4358,none
+CTRL3,CTRL,M,,77,,22,,,2047,none
+CTRL4,CTRL,M,,84,,5,,,4199,none
+CTRL5,CTRL,M,,88,,8,,,2318,none
+CTRL6,CTRL,M,,90,,12,,,5758,none
