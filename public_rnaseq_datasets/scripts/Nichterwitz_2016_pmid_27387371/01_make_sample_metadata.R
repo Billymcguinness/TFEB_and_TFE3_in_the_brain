@@ -20,12 +20,12 @@
 # => Available upon request or see methods to produce from FASTQ files
 # salmon_quant_dir_path <- "path/to/salmon/quant/directory/"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/Nichterwitz_2016_pmid_27387371/output/make_sample_metadata/" 
-sample_id_description_path <- "seq_data/public/Nichterwitz_2016_pmid_27387371/supplementary_files/sample_id_description.csv"
-sra_run_table_path <- "seq_data/public/Nichterwitz_2016_pmid_27387371/SraRunTable.txt"
-salmon_quant_dir_path <- "seq_data/public/Nichterwitz_2016_pmid_27387371/03_salmon_selective_alignment_trim_galore/"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/Nichterwitz_2016_pmid_27387371/output/make_sample_metadata/" 
+# sample_id_description_path <- "seq_data/public/Nichterwitz_2016_pmid_27387371/supplementary_files/sample_id_description.csv"
+# sra_run_table_path <- "seq_data/public/Nichterwitz_2016_pmid_27387371/SraRunTable.txt"
+# salmon_quant_dir_path <- "seq_data/public/Nichterwitz_2016_pmid_27387371/03_salmon_selective_alignment_trim_galore/"
 
 # Set up ------------------------------------------------------------------
 

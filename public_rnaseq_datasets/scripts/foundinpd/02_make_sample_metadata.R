@@ -20,12 +20,12 @@
 # => Available from the Parkinson’s Progression Markers Initiative
 # salmon_quant_dir_path <- "path/to/salmon/quant/directory/"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/foundinpd/output/make_sample_metadata/"
-participant_metadata_path <- "data/public/foundinpd/input/subject_characteristics/Participant_Status_17Sep2024.csv"
-ipsc_metadata_path <- "data/public/foundinpd/input/biosample_inventory/iPSC_Catalog_Metadata_17Sep2024.csv"
-salmon_quant_dir_path <- "seq_data/public/foundinpd/processed/RNAB/salmon_quant/"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/foundinpd/output/make_sample_metadata/"
+# participant_metadata_path <- "data/public/foundinpd/input/subject_characteristics/Participant_Status_17Sep2024.csv"
+# ipsc_metadata_path <- "data/public/foundinpd/input/biosample_inventory/iPSC_Catalog_Metadata_17Sep2024.csv"
+# salmon_quant_dir_path <- "seq_data/public/foundinpd/processed/RNAB/salmon_quant/"
 
 # Set up ------------------------------------------------------------------
 

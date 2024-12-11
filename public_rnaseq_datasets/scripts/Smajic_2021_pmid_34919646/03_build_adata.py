@@ -20,12 +20,12 @@
 # => Produced by scripts/feature_metadata/01_make_feature_metadata.R
 # gene_metadata_path <- "path/to/gene_metadata.csv"
 
-# Our paths
-work_dir_path = "/scratch/ben/rnaseq/"
-out_dir_path = "data/public/Smajic_2021_pmid_34919646/output/build_adata/"
-cnt_path = "data/public/Smajic_2021_pmid_34919646/output/prepare_count_matrix/raw_count.h5"
-sample_metadata_path = "data/public/Smajic_2021_pmid_34919646/output/make_sample_metadata/sample_metadata.csv" 
-gene_metadata_path = "ref_data/feature_metadata/gene_metadata.csv"
+# Our paths (for internal use only)
+# work_dir_path = "/scratch/ben/rnaseq/"
+# out_dir_path = "data/public/Smajic_2021_pmid_34919646/output/build_adata/"
+# cnt_path = "data/public/Smajic_2021_pmid_34919646/output/prepare_count_matrix/raw_count.h5"
+# sample_metadata_path = "data/public/Smajic_2021_pmid_34919646/output/make_sample_metadata/sample_metadata.csv" 
+# gene_metadata_path = "ref_data/feature_metadata/gene_metadata.csv"
 
 # %% Set up ----
 

@@ -12,10 +12,10 @@
 # => Available at https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_44/gencode.v44.primary_assembly.annotation.gtf.gz
 # gencode_annotation_path <- "path/to/gencode_annotation.gtf"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "ref_data/feature_metadata/" 
-gencode_annotation_path <- "ref_data/gencode.v44.primary_assembly.annotation_transgenes.gtf"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "ref_data/feature_metadata/" 
+# gencode_annotation_path <- "ref_data/gencode.v44.primary_assembly.annotation_transgenes.gtf"
 
 # Set up ------------------------------------------------------------------
 

@@ -12,10 +12,10 @@
 # => Produced by scripts/Ximerakis_2019_pmid_31551601/03_integration.py
 # adata_path <- "path/to/harmony_adata.h5ad"
 
-# Our paths
-work_dir_path = "/scratch/ben/rnaseq/"
-out_dir_path = "data/billy/Ximerakis_2019_pmid_31551601/output/sc_umap_dotplot_tfes_oct24/"
-adata_path = "data/public/Ximerakis_2019_pmid_31551601/output/integration/harmony_adata.h5ad"
+# Our paths (for internal use only)
+# work_dir_path = "/scratch/ben/rnaseq/"
+# out_dir_path = "data/billy/Ximerakis_2019_pmid_31551601/output/sc_umap_dotplot_tfes_oct24/"
+# adata_path = "data/public/Ximerakis_2019_pmid_31551601/output/integration/harmony_adata.h5ad"
 
 # %% Set up ----
 

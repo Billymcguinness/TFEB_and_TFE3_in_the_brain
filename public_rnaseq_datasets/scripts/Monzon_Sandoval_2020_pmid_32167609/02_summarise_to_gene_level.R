@@ -16,11 +16,11 @@
 # => Produced by scripts/feature_metadata/01_make_feature_metadata.R
 # transcript_metadata_path <- "path/to/transcript_metadata.csv"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/Monzon_Sandoval_2020_pmid_32167609/output/summarise_to_gene_level/" 
-sample_metadata_path <- "data/public/Monzon_Sandoval_2020_pmid_32167609/output/make_sample_metadata/sample_metadata.rds"
-transcript_metadata_path <- "ref_data/feature_metadata/transcript_metadata.csv"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/Monzon_Sandoval_2020_pmid_32167609/output/summarise_to_gene_level/" 
+# sample_metadata_path <- "data/public/Monzon_Sandoval_2020_pmid_32167609/output/make_sample_metadata/sample_metadata.rds"
+# transcript_metadata_path <- "ref_data/feature_metadata/transcript_metadata.csv"
 
 # Set up ------------------------------------------------------------------
 

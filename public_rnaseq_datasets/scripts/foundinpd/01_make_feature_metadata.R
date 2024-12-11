@@ -12,10 +12,10 @@
 # => Can be produced as described at https://github.com/FOUNDINPD/annotation-RNA
 # gencode_annotation_path <- "path/to/gencode_annotation.gtf"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/foundinpd/output/feature_metadata/"
-gencode_annotation_path <- "data/public/foundinpd/input/generate_annotation/gencode_v29.lncipedia_v5_2_hc.annotation.gtf"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/foundinpd/output/feature_metadata/"
+# gencode_annotation_path <- "data/public/foundinpd/input/generate_annotation/gencode_v29.lncipedia_v5_2_hc.annotation.gtf"
 
 # Set up ------------------------------------------------------------------
 

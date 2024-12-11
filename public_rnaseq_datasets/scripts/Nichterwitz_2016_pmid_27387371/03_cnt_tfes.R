@@ -20,12 +20,12 @@
 # => Produced by scripts/Nichterwitz_2016_pmid_27387371/02_summarise_to_gene_level.R
 # tpm_path <- "path/to/tpm.csv"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/billy/Nichterwitz_2016_pmid_27387371/output/cnt_tfes/" 
-sample_metadata_path <- "data/public/Nichterwitz_2016_pmid_27387371/output/make_sample_metadata/sample_metadata.rds"
-gene_metadata_path <- "ref_data/feature_metadata/gene_metadata.csv"
-tpm_path <- "data/public/Nichterwitz_2016_pmid_27387371/output/summarise_to_gene_level/tpm.csv"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/billy/Nichterwitz_2016_pmid_27387371/output/cnt_tfes/" 
+# sample_metadata_path <- "data/public/Nichterwitz_2016_pmid_27387371/output/make_sample_metadata/sample_metadata.rds"
+# gene_metadata_path <- "ref_data/feature_metadata/gene_metadata.csv"
+# tpm_path <- "data/public/Nichterwitz_2016_pmid_27387371/output/summarise_to_gene_level/tpm.csv"
 
 # Set up ------------------------------------------------------------------
 

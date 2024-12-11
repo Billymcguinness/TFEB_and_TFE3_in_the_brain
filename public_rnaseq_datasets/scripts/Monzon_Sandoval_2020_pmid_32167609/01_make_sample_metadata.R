@@ -16,11 +16,11 @@
 # => Available upon request or see methods to produce from FASTQ files
 # salmon_quant_dir_path <- "path/to/salmon/quant/directory/"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/Monzon_Sandoval_2020_pmid_32167609/output/make_sample_metadata/" 
-sra_run_table_path <- "seq_data/public/Monzon_Sandoval_2020_pmid_32167609/SraRunTable.txt"
-salmon_quant_dir_path <- "seq_data/public/Monzon_Sandoval_2020_pmid_32167609/03_salmon_selective_alignment_trim_galore/"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/Monzon_Sandoval_2020_pmid_32167609/output/make_sample_metadata/" 
+# sra_run_table_path <- "seq_data/public/Monzon_Sandoval_2020_pmid_32167609/SraRunTable.txt"
+# salmon_quant_dir_path <- "seq_data/public/Monzon_Sandoval_2020_pmid_32167609/03_salmon_selective_alignment_trim_galore/"
 
 # Set up ------------------------------------------------------------------
 

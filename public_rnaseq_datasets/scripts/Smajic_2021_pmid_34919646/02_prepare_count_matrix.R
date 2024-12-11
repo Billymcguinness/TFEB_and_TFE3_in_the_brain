@@ -16,11 +16,11 @@
 # => Available at https://ftp.ncbi.nlm.nih.gov/geo/series/GSE157nnn/GSE157783/suppl/GSE157783%5FIPDCO%5Fhg%5Fmidbrain%5FUMI.tar.gz
 # cnt_path <- "path/to/IPDCO_hg_midbrain_UMI.tsv"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/Smajic_2021_pmid_34919646/output/prepare_count_matrix/"
-gene_id_path <- "seq_data/public/Smajic_2021_pmid_34919646/supplementary_files/IPDCO_hg_midbrain_genes.tsv"
-cnt_path <- "seq_data/public/Smajic_2021_pmid_34919646/supplementary_files/IPDCO_hg_midbrain_UMI.tsv"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/Smajic_2021_pmid_34919646/output/prepare_count_matrix/"
+# gene_id_path <- "seq_data/public/Smajic_2021_pmid_34919646/supplementary_files/IPDCO_hg_midbrain_genes.tsv"
+# cnt_path <- "seq_data/public/Smajic_2021_pmid_34919646/supplementary_files/IPDCO_hg_midbrain_UMI.tsv"
 
 # Set up ------------------------------------------------------------------
 

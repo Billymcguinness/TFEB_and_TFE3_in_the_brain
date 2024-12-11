@@ -20,12 +20,12 @@
 # => Available at https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129788/suppl/GSE129788%5FSupplementary%5Fmeta%5Fdata%5FCell%5FTypes%5FEtc.txt.gz
 # barcode_metadata_path <- "path/to/GSE129788_Supplementary_meta_data_Cell_Types_Etc.txt.gz"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/public/Ximerakis_2019_pmid_31551601/output/make_sample_metadata/"
-sra_run_table_path <- "seq_data/public/Ximerakis_2019_pmid_31551601/SraRunTable.txt"
-animal_metadata_path <- "seq_data/public/Ximerakis_2019_pmid_31551601/supplementary_files/sample_id_animal_id.csv"
-barcode_metadata_path <- "seq_data/public/Ximerakis_2019_pmid_31551601/supplementary_files/GSE129788_Supplementary_meta_data_Cell_Types_Etc.txt.gz"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/public/Ximerakis_2019_pmid_31551601/output/make_sample_metadata/"
+# sra_run_table_path <- "seq_data/public/Ximerakis_2019_pmid_31551601/SraRunTable.txt"
+# animal_metadata_path <- "seq_data/public/Ximerakis_2019_pmid_31551601/supplementary_files/sample_id_animal_id.csv"
+# barcode_metadata_path <- "seq_data/public/Ximerakis_2019_pmid_31551601/supplementary_files/GSE129788_Supplementary_meta_data_Cell_Types_Etc.txt.gz"
 
 # Set up ------------------------------------------------------------------
 

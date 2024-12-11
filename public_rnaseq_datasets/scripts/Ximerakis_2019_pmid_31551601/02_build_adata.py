@@ -20,12 +20,12 @@
 # => Produced by scripts/Ximerakis_2019_pmid_31551601/01_make_sample_metadata.R
 # sample_metadata_path <- "path/to/sample_metadata.csv"
 
-# Our paths
-work_dir_path = "/scratch/ben/rnaseq/"
-out_dir_path = "data/public/Ximerakis_2019_pmid_31551601/output/build_adata/"
-cnt_dir_path = "seq_data/public/Ximerakis_2019_pmid_31551601/supplementary_files/GSE129788_RAW/"
-tissue_metadata_path = "data/public/Ximerakis_2019_pmid_31551601/output/make_sample_metadata/tissue_metadata.csv"
-sample_metadata_path = "data/public/Ximerakis_2019_pmid_31551601/output/make_sample_metadata/sample_metadata.csv"
+# Our paths (for internal use only)
+# work_dir_path = "/scratch/ben/rnaseq/"
+# out_dir_path = "data/public/Ximerakis_2019_pmid_31551601/output/build_adata/"
+# cnt_dir_path = "seq_data/public/Ximerakis_2019_pmid_31551601/supplementary_files/GSE129788_RAW/"
+# tissue_metadata_path = "data/public/Ximerakis_2019_pmid_31551601/output/make_sample_metadata/tissue_metadata.csv"
+# sample_metadata_path = "data/public/Ximerakis_2019_pmid_31551601/output/make_sample_metadata/sample_metadata.csv"
 
 # %% Set up ----
 

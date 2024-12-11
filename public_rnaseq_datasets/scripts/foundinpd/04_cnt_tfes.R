@@ -20,12 +20,12 @@
 # => Produced by scripts/foundinpd/03_summarise_to_gene_level.R
 # tpm_path <- "path/to/tpm.csv"
 
-# Our paths
-work_dir_path <- "/scratch/ben/rnaseq/"
-out_dir_path <- "data/billy/foundinpd/output/cnt_tfes/" 
-sample_metadata_path <- "data/public/foundinpd/output/make_sample_metadata/filtered_sample_metadata.rds"
-gene_metadata_path <- "data/public/foundinpd/output/feature_metadata/gene_metadata.csv"
-tpm_path <- "data/public/foundinpd/output/summarise_to_gene_level/tpm.csv"
+# Our paths (for internal use only)
+# work_dir_path <- "/scratch/ben/rnaseq/"
+# out_dir_path <- "data/billy/foundinpd/output/cnt_tfes/" 
+# sample_metadata_path <- "data/public/foundinpd/output/make_sample_metadata/filtered_sample_metadata.rds"
+# gene_metadata_path <- "data/public/foundinpd/output/feature_metadata/gene_metadata.csv"
+# tpm_path <- "data/public/foundinpd/output/summarise_to_gene_level/tpm.csv"
 
 # Set up ------------------------------------------------------------------
 

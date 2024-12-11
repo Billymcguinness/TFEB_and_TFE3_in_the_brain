@@ -12,10 +12,10 @@
 # => Produced by scripts/Smajic_2021_pmid_34919646/04_integration.py
 # adata_path <- "path/to/scvi_adata.h5ad"
 
-# Our paths
-work_dir_path = "/scratch/ben/rnaseq/"
-out_dir_path = "data/billy/Smajic_2021_pmid_34919646/output/sc_umap_dotplot_tfes_oct24/"
-adata_path = "data/public/Smajic_2021_pmid_34919646/output/integration/scvi_adata.h5ad"
+# Our paths (for internal use only)
+# work_dir_path = "/scratch/ben/rnaseq/"
+# out_dir_path = "data/billy/Smajic_2021_pmid_34919646/output/sc_umap_dotplot_tfes_oct24/"
+# adata_path = "data/public/Smajic_2021_pmid_34919646/output/integration/scvi_adata.h5ad"
 
 # %% Set up ----
 

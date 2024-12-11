@@ -12,10 +12,10 @@
 # => Produced by scripts/Ximerakis_2019_pmid_31551601/02_build_adata.py
 # adata_path <- "path/to/raw_adata.h5ad"
 
-# Our paths
-work_dir_path = "/scratch/ben/rnaseq/"
-out_dir_path = "data/public/Ximerakis_2019_pmid_31551601/output/integration/"
-adata_path = "data/public/Ximerakis_2019_pmid_31551601/output/build_adata/raw_adata.h5ad"
+# Our paths (for internal use only)
+# work_dir_path = "/scratch/ben/rnaseq/"
+# out_dir_path = "data/public/Ximerakis_2019_pmid_31551601/output/integration/"
+# adata_path = "data/public/Ximerakis_2019_pmid_31551601/output/build_adata/raw_adata.h5ad"
 
 # %% Set up ----
 
