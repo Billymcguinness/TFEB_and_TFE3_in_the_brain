@@ -3,14 +3,14 @@
 # ==> To be set by user <==
 
 # Path to working directory
-# work_dir_path <- "path/to/working/directory/"
+# work_dir_path = "path/to/working/directory/"
 
 # Path to output directory
-# out_dir_path <- "path/to/output/directory/" 
+# out_dir_path = "path/to/output/directory/" 
 
 # Path to Harmony adata file (h5ad)
 # => Produced by scripts/Ximerakis_2019_pmid_31551601/03_integration.py
-# adata_path <- "path/to/harmony_adata.h5ad"
+# adata_path = "path/to/harmony_adata.h5ad"
 
 # Our paths (for internal use only)
 # work_dir_path = "/scratch/ben/rnaseq/"

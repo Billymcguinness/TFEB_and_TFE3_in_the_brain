@@ -3,22 +3,22 @@
 # ==> To be set by user <==
 
 # Path to working directory
-# work_dir_path <- "path/to/working/directory/"
+# work_dir_path = "path/to/working/directory/"
 
 # Path to output directory
-# out_dir_path <- "path/to/output/directory/" 
+# out_dir_path = "path/to/output/directory/" 
 
 # Path to count matrix file (h5)
 # => Produced by scripts/Smajic_2021_pmid_34919646/02_prepare_count_matrix.R
-# cnt_path <- "path/to/raw_count.h5"
+# cnt_path = "path/to/raw_count.h5"
 
 # Path to sample metadata file (csv)
 # => Produced by scripts/Smajic_2021_pmid_34919646/01_make_sample_metadata.R
-# sample_metadata_path <- "path/to/sample_metadata.csv"
+# sample_metadata_path = "path/to/sample_metadata.csv"
 
 # Path to gene metadata file (csv)
 # => Produced by scripts/feature_metadata/01_make_feature_metadata.R
-# gene_metadata_path <- "path/to/gene_metadata.csv"
+# gene_metadata_path = "path/to/gene_metadata.csv"
 
 # Our paths (for internal use only)
 # work_dir_path = "/scratch/ben/rnaseq/"

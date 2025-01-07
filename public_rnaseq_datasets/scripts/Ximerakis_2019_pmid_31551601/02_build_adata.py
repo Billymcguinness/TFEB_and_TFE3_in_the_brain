@@ -3,22 +3,22 @@
 # ==> To be set by user <==
 
 # Path to working directory
-# work_dir_path <- "path/to/working/directory/"
+# work_dir_path = "path/to/working/directory/"
 
 # Path to output directory
-# out_dir_path <- "path/to/output/directory/" 
+# out_dir_path = "path/to/output/directory/" 
 
 # Path to directory containing animal-specific count matrices
 # => Available at https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE129788&format=file
-# cnt_dir_path <- "path/to/GSE129788_RAW/"
+# cnt_dir_path = "path/to/GSE129788_RAW/"
 
 # Path to tissue metadata file (csv)
 # => Produced by scripts/Ximerakis_2019_pmid_31551601/01_make_sample_metadata.R
-# tissue_metadata_path <- "path/to/tissue_metadata.csv"
+# tissue_metadata_path = "path/to/tissue_metadata.csv"
 
 # Path to sample metadata file (csv)
 # => Produced by scripts/Ximerakis_2019_pmid_31551601/01_make_sample_metadata.R
-# sample_metadata_path <- "path/to/sample_metadata.csv"
+# sample_metadata_path = "path/to/sample_metadata.csv"
 
 # Our paths (for internal use only)
 # work_dir_path = "/scratch/ben/rnaseq/"
